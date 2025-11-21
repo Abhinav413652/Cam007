@@ -10,7 +10,7 @@ It runs a web server that streams video directly to my phone's browser over loca
 
 ### Core Components
 - **Main Board:** Seeed Studio XIAO ESP32S3 Sense (chosen for its tiny size and camera)
-- **Battery:** 3.7V 400mAh LiPo Battery (Flat pouch style to fit in the cap)
+- **Battery:** 3.7V 800mAh LiPo Battery (Flat pouch style to fit in the cap)
 - **Switch:** Micro Slide Switch (SPDT)
 - **Wiring:** 30AWG Silicone Wires (flexible for wearables)
 - **Insulation:** Heat Shrink Tubing
