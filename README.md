@@ -23,6 +23,7 @@ It runs a web server that streams video directly to my phone's browser over loca
 
 here's a very basic diagram😅
 
-<img width="415" height="438" alt="image" src="https://github.com/user-attachments/assets/f5da63d8-ab16-407e-a8fe-6f70a782b745" />
+<img width="561" height="610" alt="image" src="https://github.com/user-attachments/assets/6c3e3276-d72f-4f8b-9066-11969eee8946" />
+
 
 Thanks!! :) :)
