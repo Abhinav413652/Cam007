@@ -19,7 +19,7 @@ It runs a web server that streams video directly to my phone's browser over loca
 *(I am a first-timer, so I am in need of these essential tools to build the project)*
 - **Soldering Station:** Soldering Iron (Which is given in this event...)
 - **Consumables:** Solder Wire Spool (60/40 Tin/Lead)
-- **Wire Stripper:** Precision wire stripper/cutter
+  
 
 here's a very basic diagram😅
 
